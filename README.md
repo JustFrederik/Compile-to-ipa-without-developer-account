@@ -4,6 +4,7 @@ If you don't pay apple you can't compile ipa files from Xcode so I created a sma
 $SCHEME is optional(will use project name as default)
 
 ./workspace_build $PROJECT_PATH $SCHEME
+<br>
 ./project_build $PROJECT_PATH $SCHEME
 <br>
 <br>
